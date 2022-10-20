@@ -2,7 +2,7 @@
 > 백준 알고리즘 사이트 문제 풀어보기
 > <https://www.acmicpc.net/>
 
-## Subject: Array of one dimension
+## Subject: One dimensional Array
 > 메뉴 -> 문제 -> 단계별로 풀어보기 -> 1차원 배열   
 > <https://www.acmicpc.net/step/6>
 
