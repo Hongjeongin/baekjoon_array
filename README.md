@@ -3,7 +3,7 @@
 > <https://www.acmicpc.net/>
 
 ## Subject: Array of one dimension
-> 메뉴 -> 문제 -> 단계별로 풀어보기 -> 1차원 배열
+> 메뉴 -> 문제 -> 단계별로 풀어보기 -> 1차원 배열   
 > <https://www.acmicpc.net/step/6>
 
 ## Problems
